@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmd-lk&label=Profile%20views&color=0e75b6&style=flat" alt="mmd-lk" /> </p>
 
-- 📫 How to reach me **abol.bayatloo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
