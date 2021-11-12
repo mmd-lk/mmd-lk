@@ -34,10 +34,11 @@ pip install foobar
    	Languages: ['python','HTML', 'CSS'],
    	Tools: ['VSCode', 'Pycharm'],
    	hobbies:{
-       Twitter : False
-       instagram : True
-       Youtube : True ,
-       TVSeries: True,
-       Game : true 
-       }
+              Twitter : False
+              instagram : True,
+              Youtube : True ,
+              TVSeries: True,
+              Game : true 
+            }
+   }
 ```
