@@ -6,12 +6,12 @@
 
 ```python
   MmD = {
- 	  names : ['moment', 'mmd_lk', 'mmd'],
-   	bio : {
+ 	 Names : ['moment', 'mmd_lk', 'mmd'],
+   	Bio : {
            Year of Birth : 2003 , 
            Height : 184 
-           }
-    Languages : ['python','HTML', 'CSS'],
+           },
+        Languages : ['python','HTML', 'CSS'],
    	Tools : ['VSCode', 'Pycharm'],
    	hobbies : {
               Twitter : False
