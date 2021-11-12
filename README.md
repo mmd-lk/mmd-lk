@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm mmd</h1>
 ## bio
+```bash
 ```python
   MmD = {
  	  names : ['moment', 'mmd_lk', 'mmd'],
