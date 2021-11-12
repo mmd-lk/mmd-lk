@@ -4,8 +4,6 @@
 ## bio
 
 
-```bash
-
 ```python
   MmD = {
  	  names : ['moment', 'mmd_lk', 'mmd'],
