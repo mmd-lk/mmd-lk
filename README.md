@@ -5,14 +5,12 @@
 
 
 ```python
-  MmD = {
-  Names : ['moment', 'mmd_lk', 'mmd'],
-   	Bio : {
-           Year Of Birth : 2003 , 
-           Height : 184 
-           },
-        Languages : ['python','HTML', 'CSS'],
-   	Tools : ['VSCode', 'Pycharm'],
+   Bio = {
+       Names : ['moment', 'mmd_lk', 'mmd'],
+       Year Of Birth : 2003 , 
+       Height : 184
+       Languages : ['python','HTML', 'CSS'],
+   	   Tools : ['VSCode', 'Pycharm'],
    	Hobbies : {
               Twitter : False
               instagram : True,
