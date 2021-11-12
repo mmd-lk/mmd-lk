@@ -29,27 +29,15 @@ pip install foobar
 ## Usage
 
 ```python
- const Hadi = {
- 	pronouns: ['Hadi.Az', 'hado', 'Choso'],
-   	Languages: ['Javascript', 'PHP', 'HTML', 'CSS'],
-   	Tools: ['VSCode', 'Node', 'Discord.jS'],
-   	hobbies:[
-       FavSingers: ['Halsey', 'BlackPink', 'BTS'],
-       TikTok: true,
-       YouTube: true,
-       WatchingKDrama: true,
-       TVSeries: false
-   ],  
-   	Projects: {
-   	    SetarBot: "a Music Bot Created for Discord",
-       SoSiS:"a Fun Discord Bot",
-       PDBL:"a Small Discord Bot list",
-           Cicada: "Biggest Persian Discord Community",
-       xray™: "Biggest Persian Developers Discord Server",
-       harmony: "Biggest Persian Discord Community"
-   	},
-   	website: "http://hadi-az.ir",
-        website: "https://hadi.js.org"
- }
-
+ const MmD = {
+ 	pronouns: ['moment', 'mmd_lk', 'mmd'],
+   	Languages: ['python','HTML', 'CSS'],
+   	Tools: ['VSCode', 'Pycharm'],
+   	hobbies:{
+       Twitter : False
+       instagram : True
+       Youtube : True ,
+       TVSeries: True,
+       Game : true 
+       }
 ```
