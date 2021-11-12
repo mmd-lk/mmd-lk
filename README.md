@@ -29,14 +29,18 @@ pip install foobar
 ## Usage
 
 ```python
- const MmD = {
- 	pronouns: ['moment', 'mmd_lk', 'mmd'],
-   	Languages: ['python','HTML', 'CSS'],
-   	Tools: ['VSCode', 'Pycharm'],
-   	hobbies:{
+  MmD = {
+ 	  names : ['moment', 'mmd_lk', 'mmd'],
+   	bio : {
+           Year of Birth : 2003 , 
+           Height : 184 
+           }
+    Languages : ['python','HTML', 'CSS'],
+   	Tools : ['VSCode', 'Pycharm'],
+   	hobbies : {
               Twitter : False
               instagram : True,
-              Youtube : True ,
+              Youtube : True ,     
               TVSeries: True,
               Game : true 
             }
