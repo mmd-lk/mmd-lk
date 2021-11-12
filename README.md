@@ -8,12 +8,12 @@
    Bio = {
        Names : ['moment', 'mmd_lk', 'mmd'],
        Year Of Birth : 2003 , 
-       Height : 184
+       Height : 184 ,
        Languages : ['python','HTML', 'CSS'],
-   	   Tools : ['VSCode', 'Pycharm'],
+   	 Tools : ['VSCode', 'Pycharm'],
    	Hobbies : {
               Twitter : False
-              instagram : True,
+              Instagram : True,
               Youtube : True ,     
               TVSeries: True,
               Game : True 
