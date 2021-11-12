@@ -2,7 +2,10 @@
 
 
 ## bio
+
+
 ```bash
+
 ```python
   MmD = {
  	  names : ['moment', 'mmd_lk', 'mmd'],
@@ -17,7 +20,7 @@
               instagram : True,
               Youtube : True ,     
               TVSeries: True,
-              Game : true 
+              Game : True 
             }
    }
 ```
