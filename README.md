@@ -36,6 +36,5 @@
 ## Support me
 <p align="center">
 <a href="https://coffeebede.ir/buycoffee/mmd_lk"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-<p align="center">
-<a href="https://discord.c99.nl/widget/theme-1/516707273985228818.png"></a>
-</p>
+
+<p align="left"> <img src="https://discord.c99.nl/widget/theme-1/516707273985228818.png" alt="mmd-lk" /> </p>
