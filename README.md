@@ -89,7 +89,7 @@
 </h3>
 <br>
 
- ```javascript
+ ```python
   const FunyFacts = {
 	    KPOP: true,
 	    TikTok: true,
@@ -97,7 +97,7 @@
 	    WatchingKDrama: true,
 	    TVSeries: false,
         "Operating System":"windows",
-        LANGUAES: [ ENGLISH, PERSIAN, KOREAN ]
+        LANGUAES: [ ENGLISH, PERSIAN ]
   }
     const friendDB = require('FRIENDS.json');
     var friend = friendDB.all()
