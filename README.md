@@ -79,16 +79,7 @@
 
 <br/><br/>
 
-<h1 align="center">
-    Visitors
-</h1>
-
-<h3 align="center"> 
-<img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
-</h3>
-<br>
-
- ```python
+<!--  ```python
   const FunyFacts = {
 	    KPOP: true,
 	    TikTok: true,
@@ -104,8 +95,8 @@
         friendDB.remove(friend)
     }
     
-```
+``` -->
 
 <div align="center"> 
-    <img align="center" src="https://discord.c99.nl/widget/theme-1/490519932292038659.png" alt=""/>
+    <img align="center" src="https://discord.c99.nl/widget/theme-1/516707273985228818.png" alt=""/>
 </div>
