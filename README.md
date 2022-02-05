@@ -62,19 +62,12 @@
 <br/>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmd-lk&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmd-lk&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>
 </div>
-
-<br/>
-<!-- 
-<div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiazt&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
-</div> -->
-
 <br/>
 
 <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mmd-lk&custom_title='mmd_lk's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mmd-lk&custom_title=%27mmd_lk%27&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>     </a>
 </div>
 
 <br/><br/>
