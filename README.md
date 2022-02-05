@@ -1,40 +1,112 @@
-<h1 align="center">Hi 👋, I'm mmd</h1>
+<div align="center">
+<h2>Hi, I'm Hadi.Az 
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
+</h2>
+</div>
 
 
-# Bio
+<div align="center">
+<h4 align="center"><samp> NODE.JS Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
+</div>
 
+<br>
 
-```python
-   Bio = {
-       Names : ['moment', 'mmd_lk', 'mmd'],
-       Year Of Birth : 2003 , 
-       Height : 184 ,
-       Languages : ['python','HTML', 'CSS'],
-   	 Tools : ['VSCode', 'Pycharm'],
-   	Hobbies : {
-              Twitter : False
-              Instagram : True,
-              Youtube : True ,     
-              TVSeries: True,
-              Game : True 
-            }
-   }
-```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmd-lk&label=Profile%20views&color=0e75b6&style=flat" alt="mmd-lk" /> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mmd_lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmd_lk" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://instagram.com/hadi._.azt"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://discord.com/invite/6vhPVYkNU9"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=5459a7" style="border-radius:15px" alt="Discord"></a>
+    <a href="mailto:azarihadi81@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=5459a7" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">
+    Programming Language
+</h1>
 
-## Support me
-<p align="center">
-<a href="https://coffeebede.ir/buycoffee/mmd_lk"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=5459a7" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
+    <br/>
+    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=5459a7" alt="CSS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/csharp-171717?style=for-the-badge&logo=csharp&logoColor=5459a7" alt="csharp" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=5459a7" alt="PHP" style="border-radius:15px"/>
+</div>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-1/516707273985228818.png" alt="mmd-lk" /> </p>
+<br><br>
+
+<h1 align="center">
+    Tool And Technology
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=5459a7" alt="Electron.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=5459a7" alt="Express.js" style="border-radius:15px"/>     
+    <img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=5459a7" alt="Express.js" style="border-radius:15px"/> 
+    <br/>
+    <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=5459a7" alt="Heroku" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=5459a7" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=5459a7" alt="Markdown" style="border-radius:15px"/>
+</div>
+
+<br><br>
+
+
+<h1 align="center">
+    GitHub Stats
+</h1>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiazt&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiazt&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+
+<br/>
+
+<div align="center"> 
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hadiazt&custom_title=hadiazt's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+</div>
+
+<br/><br/>
+
+<h1 align="center">
+    Visitors
+</h1>
+
+<h3 align="center"> 
+<img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
+</h3>
+<br>
+
+ ```javascript
+  const FunyFacts = {
+	    KPOP: true,
+	    TikTok: true,
+	    YouTube: true,
+	    WatchingKDrama: true,
+	    TVSeries: false,
+        "Operating System":"windows",
+        LANGUAES: [ ENGLISH, PERSIAN, KOREAN ]
+  }
+    const friendDB = require('FRIENDS.json');
+    var friend = friendDB.all()
+    if(friend.ignored.me) {
+        friendDB.remove(friend)
+    }
+    
+```
+
+<div align="center"> 
+    <img align="center" src="https://discord.c99.nl/widget/theme-1/490519932292038659.png" alt=""/>
+</div>
