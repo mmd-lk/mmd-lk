@@ -58,7 +58,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+    <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmd-lk&theme=chartreuse-dark&date_format=%5BY%20%5DM%20j&sideNums=DD2727)](https://git.io/streak-stats)"  alt=""/>
 </div>
 <br/>
 
