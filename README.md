@@ -58,7 +58,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmd-lk&theme=chartreuse-dark&date_format=%5BY%20%5DM%20j&sideNums=DD2727"  alt=""/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmd-lk&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>
 </div>
 <br/>
 
