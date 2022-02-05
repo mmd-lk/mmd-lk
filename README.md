@@ -1,12 +1,12 @@
 <div align="center">
-<h2>Hi, I'm Hadi.Az 
+<h2>MomEnt
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
 
 
 <div align="center">
-<h4 align="center"><samp> NODE.JS Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
+<h4 align="center"><samp> Web Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
 </div>
 
 <br>
@@ -15,7 +15,6 @@
     <a href="https://instagram.com/hadi._.azt"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=7ffe00" style="border-radius:15px" alt="Instagram"></a>
     <a href="https://discord.com/invite/6vhPVYkNU9"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=7ffe00" style="border-radius:15px" alt="Discord"></a>
     <a href="mailto:azarihadi81@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=7ffe00" alt="Gmail" style="border-radius:15px"></a>
-</p>
 
 <br><br>
 
