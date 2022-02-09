@@ -1,6 +1,4 @@
-<h2> <i>MomEnt</i> 
-      <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
-</h2>
+<div><h2 align="center"> <i>MomEnt</i><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30"></h2>
 </div>
 <div align="center">
       <h4 align="center"><samp> Web Developer - Web scraping - Bot Developer</samp></h4>
@@ -41,10 +39,9 @@
       <br>
       <a href="https://discord.js.org/#/"><img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=7ffe00" alt="Discord.js" style="border-radius:15px"/> </a>
       <a href="https://discord.js.org/#/"><img src="https://img.shields.io/badge/Discord.py-171717.svg?style=for-the-badge&logo=discord&logoColor=7ffe00" alt="discord.py" style="border-radius:15px"/> </a>
-      <br/>
+      <br>
       <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=7ffe00" alt="Git" style="border-radius:15px"/></a>
 </div>
-<br><br>
 <h1 align="center">
       <i> GitHub Stats </i>
 </h1>
@@ -56,11 +53,9 @@
 <div align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmd-lk&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>
 </div>
-<br>   
 <div align="center"> 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mmd-lk&custom_title=%27mmd_lk%27&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>     </a>
 </div>
-<br/><br/>
 <div align="center"> 
       <img align="center" src="https://discord.c99.nl/widget/theme-1/516707273985228818.png" alt=""/>
 </div>
