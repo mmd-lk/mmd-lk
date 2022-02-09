@@ -25,9 +25,7 @@
       <br/>
       <a href="https://www.learn-html.org/"><img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=7ffe00" alt="HTML5" style="border-radius:15px"/></a>
       <a href="https://www.css.org/"><img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=7ffe00" alt="CSS" style="border-radius:15px"/></a>
-      <br>
 </div>
-<br><br>      
 <h1 align="center">
       <i> Tool And Technology</i>
 </h1>
@@ -42,10 +40,10 @@
       <br>
       <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=7ffe00" alt="Git" style="border-radius:15px"/></a>
 </div>
+<br>
 <h1 align="center">
       <i> GitHub Stats </i>
-</h1>
-      
+</h1>  
 <div align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmd-lk&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>
 </div>
@@ -53,9 +51,11 @@
 <div align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmd-lk&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>
 </div>
+<br>
 <div align="center"> 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mmd-lk&custom_title=%27mmd_lk%27&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt=""/>     </a>
 </div>
+<br>
 <div align="center"> 
       <img align="center" src="https://discord.c99.nl/widget/theme-1/516707273985228818.png" alt=""/>
 </div>
