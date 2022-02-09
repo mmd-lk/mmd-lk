@@ -64,6 +64,3 @@
 <div align="center"> 
       <img align="center" src="https://discord.c99.nl/widget/theme-1/516707273985228818.png" alt=""/>
 </div>
-      
-</body>
-</html>
