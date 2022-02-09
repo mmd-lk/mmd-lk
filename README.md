@@ -14,7 +14,6 @@
 </p>
 <p align="center">
       <a href="https://www.reddit.com/user/mmd_lk"><img src="https://img.shields.io/badge/reddit-171717?style=for-the-badge&logo=reddit&logoColor=7ffe00" style="border-radius:15px" alt="Instagram"></a></p>
-<br><br>
 <h1 align="center">
       <i>Programming Language</i> 
 </h1>      
