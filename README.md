@@ -17,19 +17,18 @@
 <br><br>
 <h1 align="center">
       <i>Programming Language</i> 
-</h1>
-      
+</h1>      
 <div align="center">         
       <a href="https://www.javascript.com/" target="_blank" ><img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=7ffe00" alt="JavaScript" style="border-radius:15px"/></a> 
       <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=7ffe00" alt="Python" style="border-radius:15px"/></a>
-      <br/>
+<div>
       <a href="https://www.learn-html.org/"><img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=7ffe00" alt="HTML5" style="border-radius:15px"/></a>
       <a href="https://www.css.org/"><img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=7ffe00" alt="CSS" style="border-radius:15px"/></a>
 </div>
+      
 <h1 align="center">
       <i> Tool And Technology</i>
 </h1>
-
 <div align="center">
       <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react.js-171717?style=for-the-badge&logo=react&logoColor=7ffe00" alt="react" style="border-radius:15px"></a>
       <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django.py-171717?style=for-the-badge&logo=Django&logoColor=7ffe00" alt="Django" style="border-radius:15px"/></a>         
