@@ -18,7 +18,6 @@
       <i>Programming Language</i> 
 </h1>      
 <div align="center">         
-      <a href="https://www.javascript.com/" target="_blank" ><img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=7ffe00" alt="JavaScript" style="border-radius:15px"/></a> 
       <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=7ffe00" alt="Python" style="border-radius:15px"/></a>
 <div>
       <a href="https://www.learn-html.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=7ffe00" alt="HTML5" style="border-radius:15px"/></a>
@@ -29,14 +28,14 @@
       <i> Tool And Technology</i>
 </h1>
 <div align="center">
-      <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react.js-171717?style=for-the-badge&logo=react&logoColor=7ffe00" alt="react" style="border-radius:15px"></a>
-      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django.py-171717?style=for-the-badge&logo=Django&logoColor=7ffe00" alt="Django" style="border-radius:15px"/></a>         
-      <a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=7ffe00" alt="Markdown" style="border-radius:15px"/></a>
-      <br>
-      <a href="https://discord.js.org/#/" target="_blank"><img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=7ffe00" alt="Discord.js" style="border-radius:15px"/> </a>
+      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django.py-171717?style=for-the-badge&logo=Django&logoColor=7ffe00" alt="Django" style="border-radius:15px"/></a>     
+      <a href="https://github.com/psf/requests" target="_blank"><img src="https://img.shields.io/badge/request.py-171717?style=for-the-badge&logo=python&logoColor=7ffe00" alt="request.py" style="border-radius:15px"/></a>
       <a href="https://discord.js.org/#/" target="_blank"><img src="https://img.shields.io/badge/Discord.py-171717.svg?style=for-the-badge&logo=discord&logoColor=7ffe00" alt="discord.py" style="border-radius:15px"/> </a>
       <br>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=7ffe00" alt="Git" style="border-radius:15px"/></a>
+      <a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=7ffe00" alt="Markdown" style="border-radius:15px"/></a>
+      <a href="https://regex101.com/" target="_blank"><img src="https://img.shields.io/badge/regex.py-171717?style=for-the-badge&logo=python&logoColor=7ffe00" alt="regex" style="border-radius:15px"/></a>
+      <br>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=7ffe00" alt="Git"           style="border-radius:15px"/></a>
 </div>
 <br>
 <h1 align="center">
